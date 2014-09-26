@@ -1,0 +1,23 @@
+{
+  "endpoint": {
+    "hostname": "",
+    "owner": "",
+    "password": ""
+  },
+  "data": {
+    "layer_prefix": "lampposts",
+    "batch_size": 50
+  },
+  "layer": {
+    "title": "Lampposts",
+    "description": "Lampposts",
+    "category": "civic",
+    "subcategory": "lampposts",
+    "data_sources":  [
+      ""
+    ],
+    "licence": "Public domain",
+    "rdf_type": "cdk:Lamppost",
+    "context": {}
+  }
+}
